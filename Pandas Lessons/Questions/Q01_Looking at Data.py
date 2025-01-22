@@ -14,6 +14,8 @@ print("step 4")
 print("look at the first 25 entries")
 
 #Your code goes here:
+import pandas as pd
+import numpy as np
 
 print("#"*10)
 input()
